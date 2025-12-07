@@ -1,0 +1,11 @@
+streamlit
+PyMuPDF
+opencv-python
+numpy
+Pillow
+openai
+langchain
+langchain-openai
+langchain-community
+requests
+python-dotenv
